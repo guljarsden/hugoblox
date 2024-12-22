@@ -1,4 +1,4 @@
-# [Hugo Docs Theme](https://github.com/HugoBlox/theme-documentation)
+# Theme Obsidian
 
 [![Screenshot](https://raw.githubusercontent.com/HugoBlox/theme-documentation/main/.github/preview.png)](https://hugoblox.com/templates/details/docs/)
 
